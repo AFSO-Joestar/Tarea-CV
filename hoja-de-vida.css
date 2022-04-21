@@ -1,0 +1,53 @@
+body{
+    background-color: wheat;
+    margin: 50px;}
+.th{
+    margin-bottom: 50px;
+}
+.ale{
+ padding-left: 32px;
+padding-bottom: 30px;   }
+.dpi{
+    padding-left: 130px;}
+.cui{
+    padding-left: 130px;}
+.date{
+    padding-left: 40px;
+    padding-bottom: 30px;}
+.bab{
+   padding-left: 140px;
+   padding-bottom: 30px;}
+.state{
+    padding-right: 50px;}
+.casado{
+    padding-left: 45px;}
+.years{
+    padding-left: 190px;}
+.edades{
+    padding-right: 50px;}
+.gmail{
+    padding-right: 90px;}
+.mail{
+    padding-left: 40px;
+    margin-top: 30px;}
+.cell{
+    padding-left: 140px;}
+.av{
+    padding-left: 140px;
+    padding-bottom: 40px;}
+.grecia{
+    padding-left: 20px;
+    padding-bottom: 30px;}
+.lugar{
+    padding-top: 30px;}
+.alejo{
+	width: 250px;
+    height: 250px;
+	margin: 1px 1px 1px 5px;
+    float: left;
+    
+    /* width: 250px;
+    height: 250px;
+    right: 540px;
+    border-radius: 40px; */
+}
